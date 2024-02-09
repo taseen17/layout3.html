@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 50px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+}
+.nav{
+    height: 100px;
+    background-color: bisque;
+    color: black;
+    text-align: center;
+}
+.mid{
+display: flex;
+}
+.left{
+    width: 50%;
+    height: 400px;
+    color: black;
+    background-color: chocolate;
+    text-align: center;
+
+}
+.section{
+    height: 50%;
+    color: whitesmoke;
+    text-align: center;
+}
+.article{
+    height: 50%;
+    color: wheat;
+    text-align: center;
+    background-color: tomato;
+}
+.right{
+    width: 50%;
+    height: 400px;
+    text-align: center;
+    background-color: crimson;
+    color: white;
+}
+.footer{
+    height: 100px;
+    background-color: slategrey;
+    color: wheat;
+    text-align: center;
+}
